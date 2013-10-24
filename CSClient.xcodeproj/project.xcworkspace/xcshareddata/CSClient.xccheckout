@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F42E7BA9-CF24-4816-87E1-FE95F45FC27B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CSClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB8758BC-BDAF-4538-AEC9-E0F10CB092D5</key>
+		<string>ssh://github.com/seb-m/CoreSecretClientExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CSClient.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB8758BC-BDAF-4538-AEC9-E0F10CB092D5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/seb-m/CoreSecretClientExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB8758BC-BDAF-4538-AEC9-E0F10CB092D5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB8758BC-BDAF-4538-AEC9-E0F10CB092D5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CoreSecretClientExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
